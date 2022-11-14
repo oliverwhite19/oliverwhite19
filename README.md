@@ -1,5 +1,5 @@
 ## About Me
-I am Oliver, a JavaScript Engineer II at [FullScript](https://fullscript.com/), where I work improving the checkout and payments experience. I worked at [Welbi](https://www.welbi.co/) and [LouGeek](https://louisvillegeek.com/). I have experience with PHP and Laravel, Express and Typescript, but now I mostly work with React and Ruby on Rails!
+I am Oliver, a JavaScript Engineer II at [FullScript](https://fullscript.com/), where I work improving the checkout and payments experience. I previously worked at [Welbi](https://www.welbi.co/) and [LouGeek](https://louisvillegeek.com/). I have experience with PHP and Laravel, Express and Typescript, but now I work with React and Ruby on Rails!
 
 ## What am I doing?
 - 👷 I'm currently working with Remix to rebuild some of my projects
